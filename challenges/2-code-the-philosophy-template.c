@@ -17,7 +17,7 @@ Add a short comment about how you realized the philosophy using the program
  void newtons_third_law()
  {
      printf("Challenge One: Newtons Third Law\n");
-     // TO-DO
+     
  }
 
 
